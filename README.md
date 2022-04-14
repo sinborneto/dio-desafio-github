@@ -2,21 +2,21 @@
 Repositório criado para o Desafio de Projeto
 
 
-##Módulos concluidos
+## Módulos concluidos
 
-###Módulo 1 - Conteúdo de Abertura
+### Módulo 1 - Conteúdo de Abertura
 
-####Boas-vindas ao Bootcamp Carrefour Web Developer
-####Pensamento Computacional
-####Lógica de Programação Essencial
-####Introdução ao Git e ao GitHub
-####Prohetos ágeis com Scrum
-####Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
+#### Boas-vindas ao Bootcamp Carrefour Web Developer
+#### Pensamento Computacional
+#### Lógica de Programação Essencial
+#### Introdução ao Git e ao GitHub
+#### Prohetos ágeis com Scrum
+#### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
 
 
-##Módulo em Andamento
+## Módulo em Andamento
 
-##Primeiros Passos para desenvolvimento web
+## Primeiros Passos para desenvolvimento web
 
 
 ## Links Úteis
