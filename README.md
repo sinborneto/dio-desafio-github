@@ -16,7 +16,9 @@ Repositório criado para o Desafio de Projeto
 
 ## Módulo em Andamento
 
-### Primeiros Passos para desenvolvimento web
+### Módulo 2 - HTML/CSS3
+
+#### Primeiros Passos para desenvolvimento web
 
 
 ## Links Úteis
