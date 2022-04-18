@@ -13,12 +13,18 @@ Repositório criado para o Desafio de Projeto
 #### Prohetos ágeis com Scrum
 #### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
 
+### Módulo 2 -  HTML/CSS3
+
+#### Primeiros Passos para desenvolvimento web
+#### Introdução a criação de websites com HTML5 e CSS3
+#### Construindo páginas para internet com Bootstrap
+
 
 ## Módulo em Andamento
 
 ### Módulo 2 - HTML/CSS3
 
-#### Primeiros Passos para desenvolvimento web
+#### Recriando a Interface do Netflix
 
 
 ## Links Úteis
